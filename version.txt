@@ -1,2 +1,1 @@
-1.1
-测试版本
+1.1|测试版本|https://github.com/lypeer/QQMessageBroadcastTool/raw/master/扣扣消息群发助手v1.1.apk
